@@ -11,6 +11,11 @@ public class Variables_And_Constant {
     int herage=myage;
     System.out.println(myage);
     System.out.println(herage);
+    //to make a value constant we use final so it remains same and unchangeable
+    final float PI=3.14F;
+    System.out.println(PI);
+
+
     
 }
 }
